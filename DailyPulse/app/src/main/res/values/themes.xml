@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Keep this empty since we are using Compose themes but Android requires a base theme for the manifest -->
+    <style name="Theme.DailyPulse" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>

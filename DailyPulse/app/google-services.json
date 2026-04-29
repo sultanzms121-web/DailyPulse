@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "873243916791",
+    "project_id": "dailypulse-e5420",
+    "storage_bucket": "dailypulse-e5420.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873243916791:android:ca19584056bc43de5716f2",
+        "android_client_info": {
+          "package_name": "com.dailypulse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873243916791-88j3mim3ethk2ldrucbmeq2tgihj6v4p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dailypulse",
+            "certificate_hash": "3e426ab8493a9c10466cf49591beb7cdda0b6067"
+          }
+        },
+        {
+          "client_id": "873243916791-om9ou5n5rtcgpr4m1ppv60c0mjl9h2li.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwJpFdMODfHdac2erWDeKCOtni_gBL6SI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873243916791-om9ou5n5rtcgpr4m1ppv60c0mjl9h2li.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
